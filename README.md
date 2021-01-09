@@ -2,10 +2,13 @@
 
 My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software Engineer** at [Refinitiv](https://www.refinitiv.com). 👨‍💻
 
-![savepong' github stats](https://github-readme-stats.vercel.app/api?username=savepong&show_icons=true&count_private=true&theme=algolia)
-
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
+
+![savepong' github stats](https://github-readme-stats.vercel.app/api?username=savepong&show_icons=true&count_private=true&theme=algolia)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
+[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
 
 <!--
 **savepong/savepong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
