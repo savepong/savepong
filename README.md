@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software Engineer** at [Refinitiv](https://www.refinitiv.com). 👨‍💻
+My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software Engineer** at [Refinitiv, an LSEG Business](https://www.refinitiv.com). 👨‍💻
 
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
