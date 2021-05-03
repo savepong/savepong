@@ -5,7 +5,13 @@ My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software E
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
-![savepong' github stats](https://github-readme-stats.vercel.app/api?username=savepong&show_icons=true&count_private=true&theme=algolia)
+![savepong' github stats](https://github-readme-stats.vercel.app/api?username=savepong&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=savepong&theme=gotham&hide_border=true&background=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&langs_count=10&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000)
+
+<!-- ![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=savepong) -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
