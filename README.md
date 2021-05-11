@@ -11,7 +11,7 @@ My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software E
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&langs_count=10&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)
 
-<!-- ![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=savepong) -->
+![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
