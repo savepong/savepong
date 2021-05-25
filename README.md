@@ -16,6 +16,9 @@ My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software E
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **savepong/savepong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
