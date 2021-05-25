@@ -17,6 +17,13 @@ My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software E
 [<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   19 hrs 6 mins   ███████████████████░░░░░░   76.31 % 
+JSON         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Vue.js       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+HTML         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
