@@ -2,6 +2,8 @@
 
 My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software Engineer** at [Refinitiv, an LSEG Business](https://www.refinitiv.com). 👨‍💻
 
+[<img src="https://img.shields.io/badge/savepong.com-%230077B5.svg?&style=for-the-badge&color=81e6d9" />](https://savepong.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
@@ -12,9 +14,6 @@ My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software E
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&langs_count=10&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://savepong.com/posts/stats)
 
 [![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://savepong.com/posts/stats)
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
-[<img src="https://img.shields.io/badge/personal_website-%230077B5.svg?&style=for-the-badge&color=ef6c00" />](https://savepong.com)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
