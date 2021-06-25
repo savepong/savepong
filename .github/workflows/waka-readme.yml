@@ -28,4 +28,4 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_SHORT_INFO: True
           LOCALE: en
-          COMMIT_BY_ME: False
+          COMMIT_BY_ME: True
