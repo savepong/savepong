@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "40 17 * * *"
+    # Runs at 0:00 GMT+7 / Bangkok Time
+    - cron: "0 17 * * *"
 
 jobs:
   update-readme:
@@ -28,4 +28,4 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_SHORT_INFO: True
           LOCALE: en
-          COMMIT_BY_ME: True
+          COMMIT_BY_ME: False
