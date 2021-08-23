@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Pongsiri Chuaychoonoo. I'm currently working as a **Senior Software Engineer** at [Refinitiv, an LSEG Business](https://www.refinitiv.com). 👨‍💻
+My name is Pongsiri Chuaychoonoo. I am currently working as a **Senior Software Engineer** at [Refinitiv, an LSEG Business](https://www.refinitiv.com). 👨‍💻
 
 [<img src="https://img.shields.io/badge/savepong.com-%230077B5.svg?&style=for-the-badge&color=81e6d9" />](https://savepong.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
