@@ -23,7 +23,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 
 **🐱 My GitHub Data** 
 
-> 🏆 978 Contributions in the Year 2021
+> 🏆 986 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
@@ -88,7 +88,7 @@ HTML                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2021
+ Last Updated on 08/10/2021
 <!--END_SECTION:waka-->
 
 <!--
