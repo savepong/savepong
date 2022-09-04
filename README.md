@@ -21,7 +21,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C051%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -37,45 +37,6 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
  > 
 > 🔑 65 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    81 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
-🌆 Daytime    115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.62% 
-🌃 Evening    750 commits    ███████████████░░░░░░░░░░   62.76% 
-🌙 Night      249 commits    █████░░░░░░░░░░░░░░░░░░░░   20.84%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       185 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48% 
-Tuesday      195 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-Wednesday    184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.4% 
-Thursday     144 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-Friday       166 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Saturday     121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Sunday       200 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.74%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               6 mins              ██████████████░░░░░░░░░░░   56.77% 
-Markdown                 3 mins              ███████░░░░░░░░░░░░░░░░░░   29.76% 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.47%
-
-🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +50,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 17:17:01 UTC
+ Last Updated on 04/09/2022 17:28:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
