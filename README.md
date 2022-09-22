@@ -21,7 +21,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -64,16 +64,16 @@ Sunday       200 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 9 mins       ████████████████████████░   99.02% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
+TypeScript               11 hrs 2 mins       ████████████████████████░   99.1% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-VS Code                  10 hrs 15 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 8 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      10 hrs 15 mins      █████████████████████████   100.0%
+Mac                      11 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +90,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2022 17:25:21 UTC
+ Last Updated on 22/09/2022 17:27:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
