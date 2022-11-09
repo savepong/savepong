@@ -21,7 +21,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -37,47 +37,6 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
  > 
 > 🔑 65 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    74 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-🌆 Daytime    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
-🌃 Evening    684 commits    ████████████████░░░░░░░░░   63.57% 
-🌙 Night      217 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.96% 
-Tuesday      160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Wednesday    191 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
-Thursday     121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-Friday       155 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Saturday     91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Sunday       197 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 34 mins        ████████████████░░░░░░░░░   65.7% 
-HTML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.41%
-
-🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████░░░░   85.19% 
-Mac                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.81%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -91,7 +50,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 17:24:45 UTC
+ Last Updated on 09/11/2022 17:19:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
