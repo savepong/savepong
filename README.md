@@ -27,7 +27,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,135 Contributions in the Year 2022
+> 🏆 35 Contributions in the Year 2023
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
@@ -37,43 +37,6 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
  > 
 > 🔑 65 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    58 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.49% 
-🌆 Daytime    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-🌃 Evening    686 commits    ████████████████░░░░░░░░░   64.96% 
-🌙 Night      241 commits    █████░░░░░░░░░░░░░░░░░░░░   22.82%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
-Tuesday      190 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Wednesday    177 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Friday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Saturday     88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Sunday       154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.58%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -87,7 +50,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 17:18:21 UTC
+ Last Updated on 02/01/2023 17:14:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
