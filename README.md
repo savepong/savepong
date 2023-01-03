@@ -21,7 +21,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -37,6 +37,43 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
  > 
 > 🔑 65 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    57 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.4% 
+🌆 Daytime    71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
+🌃 Evening    687 commits    ████████████████░░░░░░░░░   65.06% 
+🌙 Night      241 commits    █████░░░░░░░░░░░░░░░░░░░░   22.82%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+Tuesday      169 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Wednesday    171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Thursday     132 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Friday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
+Saturday     88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Sunday       187 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               4 mins              █████████████████████████   100.0%
+
+🔥 Editors: 
+VS Code                  4 mins              █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      4 mins              █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -50,7 +87,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 17:14:58 UTC
+ Last Updated on 03/01/2023 17:19:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
