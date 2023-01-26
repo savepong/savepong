@@ -21,13 +21,13 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 49 Contributions in the Year 2023
+> 🏆 50 Contributions in the Year 2023
  > 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
@@ -64,17 +64,17 @@ Sunday       185 commits    ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 8 mins        ███████████████████████░░   95.02% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+TypeScript               12 hrs 2 mins       ████████████████████████░   96.99% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
 
 🔥 Editors: 
-VS Code                  9 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  12 hrs 24 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 37 mins       █████████████████████████   100.0%
+Mac                      12 hrs 24 mins      █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2023 17:19:27 UTC
+ Last Updated on 26/01/2023 17:21:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
