@@ -14,7 +14,7 @@ My name is Pongsiri Chuaychoonoo. I am currently working as a **Lead Software En
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&langs_count=10&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats)
 
-[![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats)
+<!-- [![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats) -->
 
 ## My Dev Metrics
 
