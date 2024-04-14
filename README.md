@@ -24,8 +24,6 @@
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2033%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -38,40 +36,6 @@
  > 
 > 🔑 72 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3679 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-🌆 Daytime                7711 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-🌃 Evening                12664 commits       ████████████░░░░░░░░░░░░░   46.57 % 
-🌙 Night                  3140 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4420 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Tuesday                  4109 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Wednesday                4178 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 3630 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Friday                   4234 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Saturday                 2638 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Sunday                   3985 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -85,7 +49,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 17:12:18 UTC
+ Last Updated on 14/04/2024 19:22:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
