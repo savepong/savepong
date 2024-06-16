@@ -24,13 +24,15 @@
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2033%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2024
+> 🏆 377 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -38,6 +40,40 @@
  > 
 > 🔑 72 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌆 Daytime                8328 commits        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
+🌃 Evening                14525 commits       ████████████░░░░░░░░░░░░░   47.91 % 
+🌙 Night                  3586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   4673 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  4209 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Wednesday                4770 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 4024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Friday                   4802 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Saturday                 3548 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Sunday                   4293 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -51,7 +87,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 17:14:47 UTC
+ Last Updated on 16/06/2024 17:13:56 UTC
 <!--END_SECTION:waka-->
 
 <!--
