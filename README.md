@@ -12,13 +12,6 @@
 
 <!-- [![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats) -->
 
-## My Certifications & Awards
-
-<!--START_SECTION:badges-->
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/160x160/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/7b0e170b-852d-4d35-bea2-213eceae599c "Microsoft Certified: Azure Fundamentals")
-
-![savepong's Trophy](https://github-profile-trophy.vercel.app/?username=savepong&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&no-bg=true&no-frame=true)
-
 ## My Dev Metrics
 
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
@@ -89,7 +82,12 @@ Vue                      12 repos            ██░░░░░░░░░�
 Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
+## My Certifications & Awards
 
+<!--START_SECTION:badges-->
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/160x160/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/7b0e170b-852d-4d35-bea2-213eceae599c "Microsoft Certified: Azure Fundamentals")
+
+![savepong's Trophy](https://github-profile-trophy.vercel.app/?username=savepong&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&no-bg=true&no-frame=true)
 
 
  Last Updated on 16/09/2024 17:17:00 UTC
