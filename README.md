@@ -1,4 +1,6 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/savepong)
+<a href='https://ko-fi.com/savepong' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=LinkedIn&logoColor=white" height='35' style='border:0px;height:46px;' />](https://www.linkedin.com/in/savepong)
 
 <!--
 [<img src="https://img.shields.io/badge/pongsiri.pisutakarathada.com-%230077B5.svg?&style=for-the-badge&color=orange" />](https://pongsiri.pisutakarathada.com)
