@@ -1,20 +1,39 @@
-<a href='https://ko-fi.com/savepong' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+# 👋 Hello, I'm Save!  
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=LinkedIn&logoColor=white" height='35' style='border:0px;height:46px;' />](https://www.linkedin.com/in/savepong)
+> *"Empowering programmers to build the future and saving the world before bedtime!"*  
 
-<!--
-[<img src="https://img.shields.io/badge/pongsiri.pisutakarathada.com-%230077B5.svg?&style=for-the-badge&color=orange" />](https://pongsiri.pisutakarathada.com)
-[<img src="https://img.shields.io/badge/apps.saveworld.co-%230077B5.svg?&style=for-the-badge&color=2aa889" />](https://apps.saveworld.co)
+## About Me  
 
-[![savepong' github stats](https://github-readme-stats.vercel.app/api?username=savepong&show_icons=true&count_private=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats)
+I'm a passionate tech leader and developer with over a decade of experience in **web and mobile app development**. Currently, I wear multiple hats in the tech world:  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=savepong&theme=gotham&hide_border=true&background=00000000&dates=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats)
+- **President of the Thai Programmer Association**  
+  I guide the vision of a non-profit organization supporting **200,000+ programmers** in Thailand. Together with 16 committees, I help drive events, workshops, and training initiatives that empower the programming community. My mission is to inspire growth, learning, and collaboration in the digital age.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&langs_count=10&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats)
+- **CPO & Co-Founder at CodePassion**  
+  I co-founded a startup dedicated to creating **innovative solutions** for businesses, merging technology and strategy to drive success.  
 
-<!-- [![savepong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@savepong&layout=default&theme=gotham&hide_border=true&bg_color=00000000&text_color=768390FF)](https://pongsiri.pisutakarathada.com/posts/stats) -->
+- **Lead Software Engineer at LSEG**  
+  Leading a talented team of 20, I specialize in **web add-in projects** that integrate Refinitiv's world-class data into various office platforms. My tools of choice include **JavaScript**, **React**, and **Vue.js**, with a commitment to delivering high-quality solutions that make an impact.  
 
-## My Dev Metrics
+## My Passion  
+I’m deeply committed to staying at the forefront of **technology trends** and fostering innovation in the developer community. Whether it’s mentoring, building, or learning, I strive to empower others and make a positive impact in the tech ecosystem.  
+
+## Skills  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks & Libraries:** React, Vue.js  
+- **Platforms:** Web and Mobile App Development  
+- **Leadership:** Team Management, Project Oversight, Community Building
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,stackoverflow,typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,astro,gatsby,angular,lit,bun,laravel,tailwind,postgresql,firebase,docker,cloudflare,aws,gcp,jenkins,supabase,vercel,vite,grafana,apple,notion" />
+  </a>
+</p>
+
+## Stats
+<details>
+  <summary>Github Stats ⚡</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=savepong&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 [![](https://komarev.com/ghpvc/?username=savepong&color=blue&label=Profile%20Views)](https://github.com/savepong)
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
@@ -67,8 +86,13 @@ Vue                      13 repos            ██░░░░░░░░░�
 Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 ```
 
-
-
-
  Last Updated on 27/01/2025 17:20:27 UTC
 <!--END_SECTION:waka-->
+</details>
+
+
+## Contact Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=LinkedIn&logoColor=white" height='35' style='border:0px;height:46px;' />](https://www.linkedin.com/in/savepong)
+
+## Sponsor Me
+<a href='https://ko-fi.com/savepong' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
