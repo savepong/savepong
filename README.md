@@ -7,13 +7,10 @@
 I'm a passionate tech leader and developer with over a decade of experience in **web and mobile app development**. Currently, I wear multiple hats in the tech world:  
 
 - **President of the Thai Programmer Association**  
-  I guide the vision of a non-profit organization supporting **200,000+ programmers** in Thailand. Together with 16 committees, I help drive events, workshops, and training initiatives that empower the programming community. My mission is to inspire growth, learning, and collaboration in the digital age.  
 
-- **CPO & Co-Founder at CodePassion**  
-  I co-founded a startup dedicated to creating **innovative solutions** for businesses, merging technology and strategy to drive success.  
+- **CTO at CodePassion**
 
-- **Lead Software Engineer at LSEG**  
-  Leading a talented team of 20, I specialize in **web add-in projects** that integrate Refinitiv's world-class data into various office platforms. My tools of choice include **JavaScript**, **React**, and **Vue.js**, with a commitment to delivering high-quality solutions that make an impact.  
+- **Digital Nomads**
 
 ## My Passion  
 I’m deeply committed to staying at the forefront of **technology trends** and fostering innovation in the developer community. Whether it’s mentoring, building, or learning, I strive to empower others and make a positive impact in the tech ecosystem.  
