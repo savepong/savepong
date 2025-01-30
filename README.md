@@ -1,21 +1,29 @@
 # 👋 Hello, I'm Save!  
 
+[![GitHub](https://img.shields.io/badge/GitHub-%40savepong-239a3b.svg)](https://github.com/savepong)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/savepong/)
+[![X](https://img.shields.io/badge/X-%40savepong-222222.svg)](https://x.com/savepong)
+
+I am [@savepong](https://github.com/savepong). 👋 I am the president of [Thai Programmer Association](https://thaiprogrammer.org), CTO of [Code Passion](https://codepassion.co).
+
 > *"Empowering programmers to build the future and saving the world before bedtime!"*  
 
-## About Me  
-
-I'm a passionate tech leader and developer with over a decade of experience in **web and mobile app development**. Currently, I wear multiple hats in the tech world:  
-
 ## Skills  
-- **Languages:** JavaScript, TypeScript  
-- **Frameworks & Libraries:** React, Vue.js  
-- **Platforms:** Web and Mobile App Development  
-- **Leadership:** Team Management, Project Oversight, Community Building
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab,stackoverflow,typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,astro,gatsby,angular,lit,bun,laravel,tailwind,postgresql,firebase,docker,cloudflare,aws,gcp,jenkins,supabase,vercel,vite,grafana,apple,notion" />
   </a>
 </p>
+Team Management, Community Building and Coaching
+
+## Speaking
+
+* [Thailand Developer Trends 2023](https://www.youtube.com/watch?v=8z7vxFGR8JM) @ GitHub Universe After Party, Bangkok, Thailand
+* [Building the Digital Future : Next-generation Software Development & Cyber Security](https://www.facebook.com/gosoftCPALL/videos/2378425449159099/) @ Gosoft, Bangkok, Thailand
+* [โอกาส จากการ Reskill & Upskill](https://www.facebook.com/ThaiProgrammerSociety/videos/1512297882918033) @ Digital Skill Live, Facebook Live
+* [ประสบการณ์การทำงานจุดเริ่มต้นหลังจากเรียนจบ เข้าสู่วงการสมาคมโปรแกรมเมอร์ไทย](https://www.youtube.com/watch?v=ThccXGKhqXE) @ ชวนกันมานั่งคุย BY BUSIT, YouTube Live
+* [คำแนะนำถึงคนที่อยากประสบความสำเร็จ ในอาชีพโปรแกรมเมอร์](https://www.facebook.com/watch/?v=8763738560390441) @ LearnCloud, Bangkok, Thailand
+
 
 ## Stats
 <details>
