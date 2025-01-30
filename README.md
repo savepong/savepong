@@ -6,15 +6,6 @@
 
 I'm a passionate tech leader and developer with over a decade of experience in **web and mobile app development**. Currently, I wear multiple hats in the tech world:  
 
-- **President of the Thai Programmer Association**  
-
-- **CTO at CodePassion**
-
-- **Digital Nomads**
-
-## My Passion  
-I’m deeply committed to staying at the forefront of **technology trends** and fostering innovation in the developer community. Whether it’s mentoring, building, or learning, I strive to empower others and make a positive impact in the tech ecosystem.  
-
 ## Skills  
 - **Languages:** JavaScript, TypeScript  
 - **Frameworks & Libraries:** React, Vue.js  
