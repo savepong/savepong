@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/savepong/)
 [![X](https://img.shields.io/badge/X-%40savepong-222222.svg)](https://x.com/savepong)
 
-I am the president of [Thai Programmer Association](https://thaiprogrammer.org), CTO of [Code Passion](https://codepassion.co).
+I am the president of [Thai Programmer Association](https://thaiprogrammer.org) and CTO of [Code Passion](https://codepassion.co).
 
 > *"Empowering programmers to build the future and saving the world before bedtime!"*  
 
