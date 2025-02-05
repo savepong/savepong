@@ -16,7 +16,7 @@ I am the president of [Thai Programmer Association](https://thaiprogrammer.org) 
 </p>
 Team Management, Community Building and Coaching
 
-## Speaking
+## Public Speaking
 
 * [Thailand Developer Trends 2023](https://www.youtube.com/watch?v=8z7vxFGR8JM) @ GitHub Universe After Party, Bangkok, Thailand
 * [Building the Digital Future : Next-generation Software Development & Cyber Security](https://www.facebook.com/gosoftCPALL/videos/2378425449159099/) @ Gosoft, Bangkok, Thailand
@@ -89,5 +89,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<!--
 ## Sponsor Me
 <a href='https://ko-fi.com/savepong' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> 
+-->
