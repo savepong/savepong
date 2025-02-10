@@ -35,7 +35,7 @@ Team Management, Community Building and Coaching
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C715%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C715%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.4%20million%20lines%20of%20code-blue)
 
@@ -43,7 +43,7 @@ Team Management, Community Building and Coaching
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 98 Contributions in the Year 2025
+> 🏆 99 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,11 +65,11 @@ Team Management, Community Building and Coaching
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 56 mins        ████████████████░░░░░░░░░   65.67 % 
-Astro                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JavaScript               1 hr 17 mins        █████████████████░░░░░░░░   66.60 % 
+Astro                    25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 17:17:23 UTC
+ Last Updated on 10/02/2025 17:20:33 UTC
 <!--END_SECTION:waka-->
 </details>
 
