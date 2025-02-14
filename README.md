@@ -35,13 +35,15 @@ Team Management, Community Building and Coaching
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C729%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C731%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 137 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -53,9 +55,9 @@ Team Management, Community Building and Coaching
 
 ```text
 🌞 Morning                4617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-🌆 Daytime                9594 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌆 Daytime                9595 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
 🌃 Evening                17658 commits       ████████████░░░░░░░░░░░░░   48.53 % 
-🌙 Night                  4513 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+🌙 Night                  4518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 ```
 
 
@@ -63,11 +65,11 @@ Team Management, Community Building and Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 9 mins       ██████████████████████░░░   87.70 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Astro                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               15 hrs 8 mins       ██████████████████████░░░   89.13 % 
+JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Astro                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +85,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2025 17:19:35 UTC
+ Last Updated on 14/02/2025 17:24:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
