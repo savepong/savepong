@@ -35,13 +35,15 @@ Team Management, Community Building and Coaching
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%2011%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 140 Contributions in the Year 2025
+> 🏆 152 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -49,6 +51,27 @@ Team Management, Community Building and Coaching
  > 
 > 🔑 76 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4628 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌆 Daytime                9603 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌃 Evening                17661 commits       ████████████░░░░░░░░░░░░░   48.51 % 
+🌙 Night                  4518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               18 hrs 6 mins       ████████████████████████░   95.09 % 
+HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Astro                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -62,7 +85,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 17:19:10 UTC
+ Last Updated on 16/02/2025 17:18:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
