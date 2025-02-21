@@ -35,13 +35,15 @@ Team Management, Community Building and Coaching
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 184 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -52,7 +54,7 @@ Team Management, Community Building and Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4659 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌞 Morning                4660 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 🌆 Daytime                9669 commits        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 🌃 Evening                17792 commits       ████████████░░░░░░░░░░░░░   48.54 % 
 🌙 Night                  4535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
@@ -63,11 +65,11 @@ Team Management, Community Building and Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 11 mins      ████████████████████████░   96.92 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+TypeScript               11 hrs 1 min        ████████████████████████░   95.67 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Astro                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +85,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2025 17:21:09 UTC
+ Last Updated on 21/02/2025 17:25:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
