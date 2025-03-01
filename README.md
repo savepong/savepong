@@ -1,10 +1,12 @@
 # 👋 Hello, I'm Save!  
+- President of [Thai Programmer Association](https://thaiprogrammer.org) 
+- Co-founder and CTO at [Code Passion](https://codepassion.co).
+- อนุกรรมการกำกับสำหนักงานส่งเสริมเศรษฐกิจดิจิทัล ด้านยุทธศาสตร์และส่งเสริมเศรษฐกิจดิจิทัล
+- คณะทำงานพัฒนาเขตเชิงพื้นที่เขตพระนคร กรุงเทพมหานคร
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40savepong-239a3b.svg)](https://github.com/savepong)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/savepong/)
 [![X](https://img.shields.io/badge/X-%40savepong-222222.svg)](https://x.com/savepong)
-
-I am the president of [Thai Programmer Association](https://thaiprogrammer.org) and CTO of [Code Passion](https://codepassion.co).
 
 > *"Empowering programmers to build the future and saving the world before bedtime!"*  
 
