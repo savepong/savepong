@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=github,gitlab,stackoverflow,typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,astro,gatsby,angular,lit,bun,laravel,tailwind,postgresql,firebase,docker,cloudflare,aws,gcp,jenkins,supabase,vercel,vite,grafana,apple,notion" />
   </a>
 </p>
-Team Management, Community Building and Coaching
+Team Leader, Project Management, Community Building and Worklife Coaching
 
 ## Public Speaking
 
