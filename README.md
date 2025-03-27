@@ -38,15 +38,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 [![](https://img.shields.io/github/followers/savepong?label=GitHub%20Followers)](https://github.com/savepong)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%2039%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 290 Contributions in the Year 2025
+> 🏆 292 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -54,41 +52,20 @@ Team Leader, Project Management, Community Building and Worklife Coaching
  > 
 > 🔑 76 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I Mostly Code in TypeScript** 
 
 ```text
-🌞 Morning                4907 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-🌆 Daytime                10072 commits       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌃 Evening                18122 commits       ████████████░░░░░░░░░░░░░   47.98 % 
-🌙 Night                  4668 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        ███████████████░░░░░░░░░░   61.42 % 
-Bash                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Astro                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               54 repos            ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-TypeScript               53 repos            ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-CSS                      21 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Vue                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               54 repos            ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+JavaScript               54 repos            ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+CSS                      21 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Vue                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Dart                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 26/03/2025 17:20:32 UTC
+ Last Updated on 27/03/2025 17:20:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
