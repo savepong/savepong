@@ -49,7 +49,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.2%20million%20lines%20of%20code-blue)
 
@@ -57,7 +57,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2025
+> 🏆 340 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,7 +69,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 🌞 Morning                5034 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-🌆 Daytime                10319 commits       ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌆 Daytime                10320 commits       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
 🌃 Evening                18338 commits       ████████████░░░░░░░░░░░░░   47.74 % 
 🌙 Night                  4720 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 ```
@@ -79,8 +79,8 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             ████████████████████████░   97.75 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               16 mins             ███████████████████░░░░░░   75.45 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 17:23:44 UTC
+ Last Updated on 17/04/2025 17:19:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
