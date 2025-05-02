@@ -49,15 +49,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C790%20hrs%2043%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 444 Contributions in the Year 2025
+> 🏆 475 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,27 +63,6 @@ Team Leader, Project Management, Community Building and Worklife Coaching
  > 
 > 🔑 78 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-🌆 Daytime                10686 commits       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-🌃 Evening                18768 commits       ████████████░░░░░░░░░░░░░   47.63 % 
-🌙 Night                  4795 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               9 hrs 1 min         ████████████████████░░░░░   81.14 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Astro                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +76,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2025 17:24:10 UTC
+ Last Updated on 02/05/2025 17:20:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
