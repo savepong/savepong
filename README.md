@@ -55,9 +55,9 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 **🐱 My GitHub Data** 
 
-> 📦 1.5 MB Used in GitHub's Storage 
+> 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,283 Contributions in the Year 2025
+> 🏆 1,285 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 36 mins      ███████████████████░░░░░░   75.57 % 
-JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               10 hrs 33 mins      ███████████████████░░░░░░   75.77 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2025 17:22:33 UTC
+ Last Updated on 28/06/2025 17:25:53 UTC
 <!--END_SECTION:waka-->
 </details>
 
