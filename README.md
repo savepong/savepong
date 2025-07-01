@@ -49,15 +49,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C939%20hrs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 1,298 Contributions in the Year 2025
+> 🏆 1,303 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,27 +63,6 @@ Team Leader, Project Management, Community Building and Worklife Coaching
  > 
 > 🔑 78 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-🌆 Daytime                17025 commits       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌃 Evening                23824 commits       ███████████░░░░░░░░░░░░░░   43.03 % 
-🌙 Night                  7042 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               9 hrs 54 mins       █████████████████████░░░░   85.81 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +76,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 17:22:48 UTC
+ Last Updated on 01/07/2025 17:23:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
