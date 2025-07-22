@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,567 Contributions in the Year 2025
+> 🏆 1,605 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                20331 commits       ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌃 Evening                25715 commits       ██████████░░░░░░░░░░░░░░░   41.78 % 
-🌙 Night                  7169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+🌞 Morning                8403 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌆 Daytime                20563 commits       ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌃 Evening                25896 commits       ██████████░░░░░░░░░░░░░░░   41.73 % 
+🌙 Night                  7201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 
 
@@ -79,8 +79,8 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-Docker                   1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+YAML                     3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
+Docker                   1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 Bash                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 Other                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
@@ -99,7 +99,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2025 17:31:16 UTC
+ Last Updated on 22/07/2025 17:26:19 UTC
 <!--END_SECTION:waka-->
 </details>
 
