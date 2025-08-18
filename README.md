@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,866 Contributions in the Year 2025
+> 🏆 1,867 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-🌆 Daytime                23530 commits       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-🌃 Evening                29145 commits       ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌙 Night                  7981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌞 Morning                9578 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌆 Daytime                23561 commits       ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌃 Evening                29212 commits       ██████████░░░░░░░░░░░░░░░   41.52 % 
+🌙 Night                  8007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 
 
@@ -79,9 +79,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 47 mins       ████████████████░░░░░░░░░   63.94 % 
-SCSS                     1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.84 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +95,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 17:28:58 UTC
+ Last Updated on 18/08/2025 17:27:29 UTC
 <!--END_SECTION:waka-->
 </details>
 
