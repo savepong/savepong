@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C978%20hrs%2044%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-100.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,875 Contributions in the Year 2025
+> 🏆 1,894 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9696 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-🌆 Daytime                23888 commits       ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌃 Evening                29591 commits       ██████████░░░░░░░░░░░░░░░   41.58 % 
-🌙 Night                  7996 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+🌞 Morning                9782 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌆 Daytime                24192 commits       ████████░░░░░░░░░░░░░░░░░   33.66 % 
+🌃 Evening                29850 commits       ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌙 Night                  8045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 
@@ -79,7 +79,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +95,7 @@ Dart                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 17:25:17 UTC
+ Last Updated on 21/08/2025 17:35:46 UTC
 <!--END_SECTION:waka-->
 </details>
 
