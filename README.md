@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C987%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 2,212 Contributions in the Year 2025
+> 🏆 2,232 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                10744 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-🌆 Daytime                28107 commits       █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌃 Evening                33279 commits       ██████████░░░░░░░░░░░░░░░   41.13 % 
-🌙 Night                  8785 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+🌞 Morning                10810 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+🌆 Daytime                28437 commits       █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌃 Evening                33576 commits       ██████████░░░░░░░░░░░░░░░   41.13 % 
+🌙 Night                  8806 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 ```
 
 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-YAML                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Gradle Kotlin DSL        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+TypeScript               52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Gradle Kotlin DSL        38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+XML                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+YAML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 17:26:42 UTC
+ Last Updated on 12/09/2025 17:27:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
