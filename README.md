@@ -49,15 +49,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C030%20hrs%2042%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 2,479 Contributions in the Year 2025
+> 🏆 2,541 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +66,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-🌆 Daytime                37104 commits       █████████░░░░░░░░░░░░░░░░   35.51 % 
-🌃 Evening                42609 commits       ██████████░░░░░░░░░░░░░░░   40.78 % 
-🌙 Night                  12290 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌞 Morning                12516 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌆 Daytime                37332 commits       █████████░░░░░░░░░░░░░░░░   35.49 % 
+🌃 Evening                42942 commits       ██████████░░░░░░░░░░░░░░░   40.83 % 
+🌙 Night                  12387 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 ```
 
 
@@ -99,7 +97,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 17:28:12 UTC
+ Last Updated on 20/09/2025 17:28:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
