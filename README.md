@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 3,229 Contributions in the Year 2025
+> 🏆 3,233 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18005 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌆 Daytime                55457 commits       █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌃 Evening                63366 commits       ██████████░░░░░░░░░░░░░░░   39.88 % 
-🌙 Night                  22060 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+🌞 Morning                18076 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+🌆 Daytime                55649 commits       █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌃 Evening                63556 commits       ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌙 Night                  22160 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 ```
 
 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               28 hrs 45 mins      ████████████████████░░░░░   81.34 % 
-HTTP                     3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+TypeScript               21 hrs 4 mins       ███████████████████░░░░░░   77.23 % 
+HTTP                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2025 17:34:13 UTC
+ Last Updated on 25/10/2025 17:33:13 UTC
 <!--END_SECTION:waka-->
 </details>
 
