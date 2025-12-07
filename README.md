@@ -14,7 +14,7 @@
 ## Skills  
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,stackoverflow,typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,astro,gatsby,angular,lit,bun,laravel,tailwind,postgresql,firebase,docker,cloudflare,aws,gcp,jenkins,supabase,vercel,vite,grafana,apple,notion" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,stackoverflow,typescript,nodejs,react,nextjs,nestjs,elysia,vue,nuxtjs,svelte,astro,gatsby,angular,lit,bun,laravel,tailwind,postgresql,firebase,docker,cloudflare,aws,gcp,jenkins,supabase,vercel,vite,grafana,apple,notion" />
   </a>
 </p>
 Team Leader, Project Management, Community Building and Worklife Coaching
