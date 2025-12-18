@@ -49,15 +49,15 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,918 Contributions in the Year 2025
+> 🏆 3,937 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                26204 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌆 Daytime                80513 commits       █████████░░░░░░░░░░░░░░░░   34.56 % 
-🌃 Evening                89850 commits       ██████████░░░░░░░░░░░░░░░   38.57 % 
-🌙 Night                  36381 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌞 Morning                26296 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+🌆 Daytime                80872 commits       █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌃 Evening                90120 commits       ██████████░░░░░░░░░░░░░░░   38.54 % 
+🌙 Night                  36521 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 46 mins      ██████████████░░░░░░░░░░░   57.98 % 
-YAML                     3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Docker                   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               14 hrs 53 mins      █████████████████░░░░░░░░   67.55 % 
+YAML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Docker                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 17:51:19 UTC
+ Last Updated on 18/12/2025 17:56:26 UTC
 <!--END_SECTION:waka-->
 </details>
 
