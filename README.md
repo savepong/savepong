@@ -49,7 +49,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C354%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-153.5%20million%20lines%20of%20code-blue)
 
@@ -79,7 +79,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               17 hrs 15 mins      █████████████████████████   99.98 % 
+TypeScript               17 hrs 53 mins      █████████████████████████   99.98 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -96,7 +96,7 @@ Dart                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 17:50:25 UTC
+ Last Updated on 25/12/2025 17:38:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
