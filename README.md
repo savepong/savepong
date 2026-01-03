@@ -49,13 +49,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154.86%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-155.06%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2026
+> 🏆 82 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -66,17 +66,17 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               58 repos            ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-JavaScript               56 repos            ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Vue                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+TypeScript               58 repos            ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+JavaScript               56 repos            ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+CSS                      14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Vue                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 ```
 
 
 
 
- Last Updated on 02/01/2026 17:40:49 UTC
+ Last Updated on 03/01/2026 17:49:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
