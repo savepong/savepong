@@ -57,13 +57,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,638 Contributions in the Year 2026
+> 🏆 1,641 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 257 Public Repositories 
+> 📜 258 Public Repositories 
  > 
-> 🔑 78 Private Repositories 
+> 🔑 79 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -79,27 +79,27 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 52 mins      ███████████████████░░░░░░   74.19 % 
-YAML                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+TypeScript               15 hrs 44 mins      ██████████████████████░░░   86.02 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               59 repos            ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-JavaScript               52 repos            ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-CSS                      14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Vue                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TypeScript               60 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+JavaScript               52 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+CSS                      14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Vue                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Dart                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 
 
 
- Last Updated on 25/04/2026 18:28:09 UTC
+ Last Updated on 26/04/2026 18:02:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
