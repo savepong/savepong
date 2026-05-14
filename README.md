@@ -49,15 +49,15 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C814%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C821%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,344 Contributions in the Year 2026
+> 🏆 2,378 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -65,6 +65,27 @@ Team Leader, Project Management, Community Building and Worklife Coaching
  > 
 > 🔑 80 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                39945 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                122005 commits      █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌃 Evening                131772 commits      █████████░░░░░░░░░░░░░░░░   37.88 % 
+🌙 Night                  54177 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               14 hrs 43 mins      █████████████░░░░░░░░░░░░   51.43 % 
+Markdown                 3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Other                    2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Astro                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -78,7 +99,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 18:51:35 UTC
+ Last Updated on 14/05/2026 18:44:24 UTC
 <!--END_SECTION:waka-->
 </details>
 
