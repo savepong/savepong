@@ -49,13 +49,15 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.92%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C865%20hrs%2051%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.24%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,517 Contributions in the Year 2026
+> 🏆 2,542 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,6 +65,27 @@ Team Leader, Project Management, Community Building and Worklife Coaching
  > 
 > 🔑 80 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42152 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+🌆 Daytime                128611 commits      █████████░░░░░░░░░░░░░░░░   35.23 % 
+🌃 Evening                138202 commits      █████████░░░░░░░░░░░░░░░░   37.86 % 
+🌙 Night                  56063 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 8 hrs 6 mins        █████████████░░░░░░░░░░░░   51.86 % 
+TypeScript               3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -76,7 +99,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:19:58 UTC
+ Last Updated on 29/05/2026 19:38:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
