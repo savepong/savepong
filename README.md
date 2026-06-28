@@ -49,7 +49,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C942%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C943%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -57,7 +57,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,816 Contributions in the Year 2026
+> 🏆 2,817 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.95 % 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Markdown                 4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
+JSON                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2026 18:21:30 UTC
+ Last Updated on 28/06/2026 18:24:04 UTC
 <!--END_SECTION:waka-->
 </details>
 
