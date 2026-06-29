@@ -51,13 +51,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C943%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,817 Contributions in the Year 2026
+> 🏆 2,824 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44704 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌆 Daytime                138423 commits      █████████░░░░░░░░░░░░░░░░   35.65 % 
-🌃 Evening                146554 commits      █████████░░░░░░░░░░░░░░░░   37.75 % 
-🌙 Night                  58568 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+🌞 Morning                44666 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                138360 commits      █████████░░░░░░░░░░░░░░░░   35.66 % 
+🌃 Evening                146438 commits      █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌙 Night                  58516 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 ```
 
 
@@ -79,27 +79,27 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
-JSON                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
+JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Vue                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+TypeScript               61 repos            ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+HTML                     20 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+CSS                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Vue                      13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
 
 
- Last Updated on 28/06/2026 18:24:04 UTC
+ Last Updated on 29/06/2026 18:50:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
