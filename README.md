@@ -49,15 +49,15 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C943%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C944%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-230.92%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 2,824 Contributions in the Year 2026
+> 🏆 2,827 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -68,10 +68,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44666 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-🌆 Daytime                138360 commits      █████████░░░░░░░░░░░░░░░░   35.66 % 
-🌃 Evening                146438 commits      █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌙 Night                  58516 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+🌞 Morning                44535 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+🌆 Daytime                138172 commits      █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌃 Evening                146259 commits      █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌙 Night                  58399 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 ```
 
 
@@ -79,11 +79,11 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.21 % 
-JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-TypeScript               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Markdown                 4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.93 % 
+JSON                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Astro                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2026 18:50:21 UTC
+ Last Updated on 30/06/2026 18:54:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
