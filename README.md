@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Save!  
-- President of [Thai Programmer Association](https://thaiprogrammer.org) 
+- Ex-President of [Thai Programmer Association](https://thaiprogrammer.org) 
 - Co-founder and CTO at [Code Passion](https://codepassion.co).
 - อนุกรรมการกำกับสำหนักงานส่งเสริมเศรษฐกิจดิจิทัล ด้านยุทธศาสตร์และส่งเสริมเศรษฐกิจดิจิทัล
 - คณะทำงานพัฒนาเขตเชิงพื้นที่เขตพระนคร กรุงเทพมหานคร
