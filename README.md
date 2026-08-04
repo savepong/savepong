@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-243.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-242.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,216 Contributions in the Year 2026
+> 🏆 3,244 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47626 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                150418 commits      █████████░░░░░░░░░░░░░░░░   36.18 % 
-🌃 Evening                156088 commits      █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌙 Night                  61647 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌞 Morning                47789 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌆 Daytime                150909 commits      █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌃 Evening                156593 commits      █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌙 Night                  61858 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 ```
 
 
@@ -81,34 +81,34 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-Bash                     1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Markdown                 39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TypeScript               2 hrs 20 mins       ███████████████████░░░░░░   75.91 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (55.21%)
+⏱ AI Coding Time: 51 mins (28.01%)
 
-✍️ 408 lines written by AI, 24 lines written by hand (94.44% AI-written)
+✍️ 366 lines written by AI, 23 lines written by hand (94.09% AI-written)
 
-🔤 17,574,341 Input Tokens, 93,279 Output Tokens
+🔤 9,799,984 Input Tokens, 55,371 Output Tokens
 
-💵 $89.90 Estimated AI Cost This Week
+💵 $50.27 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 85 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
 
-Opus                     424 lines           █████████████████████████   100.00 % 
+Opus                     382 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.44% of written lines came from AI
-📚 Verbose Prompter — average 2,257 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 10.36% of changed lines were hand-edited
+🤖 AI-Driven — 94.09% of written lines came from AI
+📄 Detailed Prompter — average 1,051 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 10.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 18:31:43 UTC
+ Last Updated on 04/08/2026 18:58:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
