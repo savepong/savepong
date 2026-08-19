@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.24%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,400 Contributions in the Year 2026
+> 🏆 3,408 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49460 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-🌆 Daytime                158422 commits      █████████░░░░░░░░░░░░░░░░   36.56 % 
-🌃 Evening                161972 commits      █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌙 Night                  63436 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+🌞 Morning                49678 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌆 Daytime                159710 commits      █████████░░░░░░░░░░░░░░░░   36.64 % 
+🌃 Evening                162803 commits      █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Night                  63707 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
@@ -81,50 +81,50 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   55.54 % 
-Docker                   43 mins             ██████████░░░░░░░░░░░░░░░   39.00 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   55.83 % 
+Docker                   43 mins             ██████████░░░░░░░░░░░░░░░   39.20 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 mins (27.34%)
+⏱ AI Coding Time: 29 mins (26.96%)
 
 ✍️ 0 lines written by AI, 44 lines written by hand (0.0% AI-written)
 
-🔤 115,969 Input Tokens, 92,104 Output Tokens
+🔤 115,949 Input Tokens, 88,561 Output Tokens
 
-💵 $1.16 Estimated AI Cost This Week
+💵 $1.14 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 78 AI Prompts
+🧠 13 AI Sessions, 75 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,576 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 3,483 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               60 repos            ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-HTML                     21 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               61 repos            ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+HTML                     21 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 
 
 
- Last Updated on 18/08/2026 18:45:51 UTC
+ Last Updated on 19/08/2026 18:40:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
