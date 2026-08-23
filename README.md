@@ -59,7 +59,7 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,434 Contributions in the Year 2026
+> 🏆 3,437 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -81,25 +81,25 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-YAML                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Docker                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+YAML                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Docker                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 16 mins (76.68%)
+⏱ AI Coding Time: 7 hrs 5 mins (77.96%)
 
 ✍️ 2,164 lines written by AI, 225 lines written by hand (90.58% AI-written)
 
-🔤 3,058,664 Input Tokens, 515,530 Output Tokens
+🔤 3,056,750 Input Tokens, 510,797 Output Tokens
 
-💵 $90.67 Estimated AI Cost This Week
+💵 $90.54 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 148 AI Prompts
+🧠 33 AI Sessions, 143 AI Prompts
 
 Opus                     2,289 lines         █████████████████████████   99.57 % 
 GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
@@ -109,7 +109,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.58% of written lines came from AI
-📚 Verbose Prompter — average 2,796 characters per prompt
+📚 Verbose Prompter — average 2,569 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 11.88% of changed lines were hand-edited
 ```
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:31:36 UTC
+ Last Updated on 23/08/2026 18:30:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
