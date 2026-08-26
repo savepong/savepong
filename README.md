@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-255.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-255.10%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,449 Contributions in the Year 2026
+> 🏆 3,459 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -71,9 +71,9 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 🌞 Morning                50228 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-🌆 Daytime                162455 commits      █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                164794 commits      █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌙 Night                  64262 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+🌆 Daytime                162463 commits      █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌃 Evening                164811 commits      █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  64254 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
 
@@ -81,37 +81,36 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-YAML                     2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-JSON                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Docker                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+YAML                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Docker                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 43 mins (82.74%)
+⏱ AI Coding Time: 7 hrs (81.3%)
 
-✍️ 2,164 lines written by AI, 219 lines written by hand (90.81% AI-written)
+✍️ 2,161 lines written by AI, 219 lines written by hand (90.8% AI-written)
 
-🔤 3,352,371 Input Tokens, 500,364 Output Tokens
+🔤 3,303,792 Input Tokens, 499,626 Output Tokens
 
-💵 $94.59 Estimated AI Cost This Week
+💵 $93.79 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 122 AI Prompts
+🧠 17 AI Sessions, 110 AI Prompts
 
-Opus                     2,289 lines         █████████████████████████   99.57 % 
+Opus                     2,289 lines         █████████████████████████   99.70 % 
 GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Hermes                   3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.81% of written lines came from AI
-📚 Verbose Prompter — average 1,979 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.68% of changed lines were hand-edited
+🤖 AI-Driven — 90.8% of written lines came from AI
+📚 Verbose Prompter — average 1,790 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 11.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +126,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 18:31:03 UTC
+ Last Updated on 26/08/2026 19:20:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
