@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-197%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-255.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-255.56%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,459 Contributions in the Year 2026
+> 🏆 3,462 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                50228 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-🌆 Daytime                162463 commits      █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌃 Evening                164811 commits      █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌙 Night                  64254 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+🌞 Morning                50312 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                162755 commits      █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌃 Evening                165177 commits      █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌙 Night                  64367 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
 ```
 
 
@@ -81,36 +81,35 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.35 % 
-YAML                     2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-JSON                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Docker                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+YAML                     2 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.58 % 
+Markdown                 1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Docker                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs (81.3%)
+⏱ AI Coding Time: 5 hrs 50 mins (94.23%)
 
-✍️ 2,161 lines written by AI, 219 lines written by hand (90.8% AI-written)
+✍️ 1,505 lines written by AI, 33 lines written by hand (97.85% AI-written)
 
-🔤 3,303,792 Input Tokens, 499,626 Output Tokens
+🔤 2,594,275 Input Tokens, 275,938 Output Tokens
 
-💵 $93.79 Estimated AI Cost This Week
+💵 $65.83 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 110 AI Prompts
+🧠 11 AI Sessions, 93 AI Prompts
 
-Opus                     2,289 lines         █████████████████████████   99.70 % 
-GPT                      7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Opus                     1,505 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.8% of written lines came from AI
-📚 Verbose Prompter — average 1,790 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.69% of changed lines were hand-edited
+🤖 AI-Driven — 97.85% of written lines came from AI
+📝 Concise Prompter — average 490 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +125,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 19:20:34 UTC
+ Last Updated on 27/08/2026 21:55:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
