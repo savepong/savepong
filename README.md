@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-231%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-264.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,782 Contributions in the Year 2026
+> 🏆 3,830 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52380 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                174817 commits      █████████░░░░░░░░░░░░░░░░   37.37 % 
-🌃 Evening                173574 commits      █████████░░░░░░░░░░░░░░░░   37.11 % 
-🌙 Night                  67002 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+🌞 Morning                52425 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                175079 commits      █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                173832 commits      █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌙 Night                  67143 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 ```
 
 
@@ -81,27 +81,27 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 29 mins      ████████████░░░░░░░░░░░░░   49.42 % 
-Other                    3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-HTML                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Markdown                 9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
+Other                    3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+HTML                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 18 mins (100.0%)
 
-✍️ 18,520 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,502 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,412,231 Input Tokens, 1,999,296 Output Tokens
+🔤 19,232,346 Input Tokens, 1,941,094 Output Tokens
 
-💵 $476.45 Estimated AI Cost This Week
+💵 $466.27 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 367 AI Prompts
+🧠 83 AI Sessions, 338 AI Prompts
 
-Opus                     17,428 lines        ███████████████████████░░   93.89 % 
+Opus                     17,410 lines        ███████████████████████░░   93.88 % 
 Sonnet                   575 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 GPT                      479 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 Hermes                   81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
@@ -109,7 +109,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,377 characters per prompt
+📚 Verbose Prompter — average 2,577 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -117,9 +117,9 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               66 repos            ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               66 repos            ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 Python                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 18:42:56 UTC
+ Last Updated on 28/09/2026 19:03:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
