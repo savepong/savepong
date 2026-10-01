@@ -49,17 +49,17 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C008%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-247%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,861 Contributions in the Year 2026
+> 🏆 3,894 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                52475 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                175380 commits      █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌃 Evening                174135 commits      █████████░░░░░░░░░░░░░░░░   37.09 % 
-🌙 Night                  67552 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌞 Morning                52618 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+🌆 Daytime                175569 commits      █████████░░░░░░░░░░░░░░░░   37.32 % 
+🌃 Evening                174404 commits      █████████░░░░░░░░░░░░░░░░   37.07 % 
+🌙 Night                  67869 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
 
 
@@ -81,36 +81,36 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   38.52 % 
-Other                    4 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-TypeScript               3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Python                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-HTML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Markdown                 11 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   39.04 % 
+Other                    6 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+TypeScript               4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+HTML                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Python                   1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 7 mins (98.38%)
+⏱ AI Coding Time: 29 hrs 48 mins (98.3%)
 
-✍️ 20,941 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 22,021 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,519,677 Input Tokens, 2,233,652 Output Tokens
+🔤 25,335,959 Input Tokens, 2,540,916 Output Tokens
 
-💵 $499.00 Estimated AI Cost This Week
+💵 $473.23 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 408 AI Prompts
+🧠 141 AI Sessions, 477 AI Prompts
 
-Opus                     18,970 lines        ██████████████████████░░░   89.68 % 
-GPT                      1,325 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Sonnet                   739 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Hermes                   81 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Opus                     18,174 lines        ████████████████████░░░░░   81.75 % 
+Sonnet                   2,643 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+GPT                      1,291 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Hermes                   87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Codex-Vscode             37 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,614 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,749 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 19:02:37 UTC
+ Last Updated on 01/10/2026 18:50:11 UTC
 <!--END_SECTION:waka-->
 </details>
 
