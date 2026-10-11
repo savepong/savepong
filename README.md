@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-225.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-269.03%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 3,974 Contributions in the Year 2026
+> 🏆 4,006 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42706 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-🌆 Daytime                125751 commits      █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌃 Evening                136219 commits      ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌙 Night                  51688 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+🌞 Morning                53103 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+🌆 Daytime                178984 commits      █████████░░░░░░░░░░░░░░░░   37.55 % 
+🌃 Evening                176832 commits      █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  67674 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 ```
 
 
@@ -81,37 +81,37 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-Markdown                 4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Python                   3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-TypeScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Other                    3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Python                   3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 9 mins (95.33%)
+⏱ AI Coding Time: 15 hrs 56 mins (94.72%)
 
-✍️ 3,072 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 2,675 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 13,167,599 Input Tokens, 1,118,421 Output Tokens
+🔤 11,703,061 Input Tokens, 942,245 Output Tokens
 
-💵 $354.67 Estimated AI Cost This Week
+💵 $307.63 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 410 AI Prompts
+🧠 77 AI Sessions, 317 AI Prompts
 
-Opus                     1,396 lines         ███████████░░░░░░░░░░░░░░   42.10 % 
-Hermes                   1,283 lines         ██████████░░░░░░░░░░░░░░░   38.69 % 
-GPT                      628 lines           █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Codex-Vscode             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Opus                     1,396 lines         ████████████░░░░░░░░░░░░░   47.82 % 
+Hermes                   886 lines           ████████░░░░░░░░░░░░░░░░░   30.35 % 
+GPT                      628 lines           █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Codex-Vscode             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,771 characters per prompt
+📚 Verbose Prompter — average 3,958 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:25:09 UTC
+ Last Updated on 11/10/2026 22:16:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
