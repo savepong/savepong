@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-269.03%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-269.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,006 Contributions in the Year 2026
+> 🏆 4,115 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53103 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-🌆 Daytime                178984 commits      █████████░░░░░░░░░░░░░░░░   37.55 % 
-🌃 Evening                176832 commits      █████████░░░░░░░░░░░░░░░░   37.10 % 
-🌙 Night                  67674 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+🌞 Morning                53133 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                179251 commits      █████████░░░░░░░░░░░░░░░░   37.55 % 
+🌃 Evening                177122 commits      █████████░░░░░░░░░░░░░░░░   37.11 % 
+🌙 Night                  67809 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 ```
 
 
@@ -81,37 +81,37 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Other                    3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Python                   3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-TypeScript               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Markdown                 4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Other                    3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Python                   3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+TypeScript               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 56 mins (94.72%)
+⏱ AI Coding Time: 15 hrs 31 mins (98.0%)
 
-✍️ 2,675 lines written by AI, 2 lines written by hand (99.93% AI-written)
+✍️ 2,656 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 11,703,061 Input Tokens, 942,245 Output Tokens
+🔤 11,301,597 Input Tokens, 922,660 Output Tokens
 
-💵 $307.63 Estimated AI Cost This Week
+💵 $303.44 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 317 AI Prompts
+🧠 66 AI Sessions, 295 AI Prompts
 
-Opus                     1,396 lines         ████████████░░░░░░░░░░░░░   47.82 % 
-Hermes                   886 lines           ████████░░░░░░░░░░░░░░░░░   30.35 % 
-GPT                      628 lines           █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Opus                     1,396 lines         ████████████░░░░░░░░░░░░░   48.14 % 
+Hermes                   886 lines           ████████░░░░░░░░░░░░░░░░░   30.55 % 
+GPT                      609 lines           █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
 Codex-Vscode             9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,958 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 4,020 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +127,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:16:51 UTC
+ Last Updated on 13/10/2026 01:07:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
