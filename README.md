@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-274.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,148 Contributions in the Year 2026
+> 🏆 4,160 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53484 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                182025 commits      █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                179124 commits      █████████░░░░░░░░░░░░░░░░   37.08 % 
-🌙 Night                  68477 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌞 Morning                53506 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌆 Daytime                182294 commits      █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌃 Evening                179381 commits      █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌙 Night                  68504 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 ```
 
 
@@ -81,36 +81,34 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.82 % 
-Markdown                 1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-TypeScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Python                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Other                    1 hr 19 mins        ████████████░░░░░░░░░░░░░   46.85 % 
+Markdown                 48 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (95.15%)
+⏱ AI Coding Time: 2 hrs 49 mins (100.0%)
 
-✍️ 1,073 lines written by AI, 1 lines written by hand (99.91% AI-written)
+✍️ 320 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,975,460 Input Tokens, 341,469 Output Tokens
+🔤 796,523 Input Tokens, 57,776 Output Tokens
 
-💵 $60.97 Estimated AI Cost This Week
+💵 $19.93 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 69 AI Prompts
+🧠 22 AI Sessions, 57 AI Prompts
 
-Hermes                   1,016 lines         ████████████████████████░   94.16 % 
-GPT                      63 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Hermes                   263 lines           ████████████████████░░░░░   80.67 % 
+GPT                      63 lines            █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 630 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 657 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,7 +124,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 21:56:43 UTC
+ Last Updated on 16/10/2026 21:36:45 UTC
 <!--END_SECTION:waka-->
 </details>
 
