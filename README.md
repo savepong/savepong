@@ -49,82 +49,38 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 <a href="https://github.com/savepong" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savepong&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C032%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C039%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-272%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-279%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-275.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,192 Contributions in the Year 2026
+> 🏆 4,241 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 261 Public Repositories 
  > 
-> 🔑 87 Private Repositories 
+> 🔑 88 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                53524 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-🌆 Daytime                182364 commits      █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌃 Evening                179412 commits      █████████░░░░░░░░░░░░░░░░   37.08 % 
-🌙 Night                  68532 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    1 hr 19 mins        ████████████░░░░░░░░░░░░░   46.85 % 
-Markdown                 48 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 49 mins (100.0%)
-
-✍️ 320 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 796,523 Input Tokens, 57,776 Output Tokens
-
-💵 $19.93 Estimated AI Cost This Week
-
-🧠 22 AI Sessions, 57 AI Prompts
-
-Hermes                   263 lines           ████████████████████░░░░░   80.67 % 
-GPT                      63 lines            █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 657 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               67 repos            ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Python                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               67 repos            ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+HTML                     23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+CSS                      13 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Python                   4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Rust                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 17/10/2026 20:12:31 UTC
+ Last Updated on 18/10/2026 20:42:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
