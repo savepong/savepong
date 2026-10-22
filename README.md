@@ -53,13 +53,13 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-279.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 4,391 Contributions in the Year 2026
+> 🏆 4,431 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -70,10 +70,10 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                53659 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-🌆 Daytime                183843 commits      █████████░░░░░░░░░░░░░░░░   37.73 % 
-🌃 Evening                180941 commits      █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌙 Night                  68836 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌞 Morning                53767 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌆 Daytime                184474 commits      █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌃 Evening                181607 commits      █████████░░░░░░░░░░░░░░░░   37.16 % 
+🌙 Night                  68927 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 ```
 
 
@@ -81,37 +81,37 @@ Team Leader, Project Management, Community Building and Worklife Coaching
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 53 mins      █████████████░░░░░░░░░░░░   52.91 % 
-TypeScript               3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Other                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Rust                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Markdown                 14 hrs 49 mins      ████████████░░░░░░░░░░░░░   48.55 % 
+Other                    6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+TypeScript               5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Rust                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 7 mins (88.01%)
+⏱ AI Coding Time: 25 hrs 57 mins (84.99%)
 
-✍️ 9,700 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 13,368 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 24,163,945 Input Tokens, 2,292,330 Output Tokens
+🔤 31,732,060 Input Tokens, 3,014,811 Output Tokens
 
-💵 $302.45 Estimated AI Cost This Week
+💵 $408.55 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 364 AI Prompts
+🧠 69 AI Sessions, 539 AI Prompts
 
-Opus                     9,449 lines         ████████████████████████░   94.52 % 
-Sonnet                   313 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Qwen                     153 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-GPT                      78 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Hermes-Agent             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Opus                     13,077 lines        ████████████████████████░   96.78 % 
+Sonnet                   313 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+GPT                      118 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Hermes-Agent             4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 3,149 characters per prompt
+📚 Verbose Prompter — average 2,621 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +127,7 @@ Rust                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 22:07:21 UTC
+ Last Updated on 22/10/2026 22:14:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
